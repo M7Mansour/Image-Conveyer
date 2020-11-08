@@ -4,8 +4,8 @@ usage : enter the path for the image with the extension for the image in the fir
 	enter the name for the new image without the extension 
 	enter the path for the folder you want to store the new image in it
 Original image :
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/M7Mansour/Image-Conveyer/blob/master/Images/symbol.png)
 
 
 new image : 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/M7Mansour/Image-Conveyer/blob/master/Images/symbol1.png)
